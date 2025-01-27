@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: my jouney of pentesting
 ---
-
+author - pinakapani
