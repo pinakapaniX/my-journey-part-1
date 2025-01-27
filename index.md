@@ -1,4 +1,4 @@
 ---
-title: my jouney of pentesting
+Pentesting Beginner: my jouney of pentesting
 ---
 author - pinakapani
